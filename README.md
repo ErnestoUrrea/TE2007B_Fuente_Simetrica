@@ -1,8 +1,7 @@
-# TE2007B_Fuente_Simetrica
-Fuente de poder simétrica de regulación lineal, 12VDC, 0.5A con protección de sobrecarga e interruptor de encendido/apagado.
-Diseñada para la unidad de formacion TE2007B.
+# Fuente de poder simétrica de regulación lineal
+Fuente de 12 VDC, 0.5 A, con protección de sobrecarga e interruptor de encendido/apagado. Diseñada para la unidad de formacion **TE2007B**.
 
-Equipo:
-César Aurelio Martínez Rodríguez
-Mario Alberto Sánchez López
-Ernesto Enrique Urrea López
+**Equipo:** <br>
+César Aurelio Martínez Rodríguez<br>
+Mario Alberto Sánchez López<br>
+Ernesto Enrique Urrea López<br>
