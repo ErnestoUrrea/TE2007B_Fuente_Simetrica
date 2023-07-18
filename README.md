@@ -21,8 +21,10 @@ El circuito se diseñó para cumplir con las siguientes especificaciones:
 La entrada al circuito de filtrado y regulación es proporcionada por un transformador con derivación central y salida de 30.2 Vrms.
 
 ## Diagrama esquemático
-
 ![Diagrama esquemático del circuito de filtrado y regulación](https://github.com/ErnestoUrrea/TE2007B_Fuente_Simetrica/blob/main/Fuente_Simetrica_Esquematico.png?raw=true)
 
 ## Vista 3D
 ![Vista 3D del PCB de la fuente ensamblado](https://github.com/ErnestoUrrea/TE2007B_Fuente_Simetrica/blob/main/Fuente_Simetrica_3DView.png?raw=true)
+
+## PCB Ensamblada
+![Imagen de la PCB Ensamblada](https://github.com/ErnestoUrrea/TE2007B_Fuente_Simetrica/blob/main/Fuente_Simetrica_Final.png?raw=true)
